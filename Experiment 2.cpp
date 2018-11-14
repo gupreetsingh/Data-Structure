@@ -1,3 +1,4 @@
+/*Write a program to accept N numbers from the user and store them in an array. Then, accept another number from the user and search that using Linear Search.*/
 #include<iostream>
 using namespace std;
 int main()
@@ -28,4 +29,4 @@ for(i=0;i<n;i++)
 if(flag==0)
     cout<<"\nElement not found\n";
 return 0;
-}
+}
